@@ -3,7 +3,7 @@ package assignment2.DataCoupling;
 import jdk.jshell.Snippet;
 
 public class Car {
-    String modelname;
+    String  modelname;
     int car_id;
     String status="free";
 
